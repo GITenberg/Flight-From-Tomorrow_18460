@@ -1,0 +1,34 @@
+_repo: Flight-From-Tomorrow_18460
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: In the gripping short novel "Flight From Tomorrow," the eccentric leader
+  Hradzka finds his life turned upside down in an instant when a reversal of fortune
+  sees him ousted from the throne. To escape certain death, he vanishes into the timestream.
+  Will he ever make it back to the future and the civilization over which he once
+  reigned supreme?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Time travel -- Fiction'
+- !lcc 'PS'
+title: Flight From Tomorrow
+url: http://www.gutenberg.org/ebooks/18460
